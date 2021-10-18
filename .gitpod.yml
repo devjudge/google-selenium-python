@@ -1,0 +1,4 @@
+tasks:
+  - name: 'Terminal 2'
+    init: chmod 0755 ./chrome-test-setup.sh
+    command: sh ./chrome-test-setup.sh
