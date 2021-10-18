@@ -20,5 +20,6 @@ from restapi.views import *
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^google/title/$', get_title),
     url(r'', index),
 ]

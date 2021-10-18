@@ -1,2 +1,4 @@
 Django==2.1
 pytz==2019.2
+selenium==3.10.0
+djangorestframework==3.9.0
